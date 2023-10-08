@@ -1,0 +1,7 @@
+C:\Users\Tales\Desktop\DIO\PDV-Api\obj\Debug\net7.0\PDV-Api.csproj.AssemblyReference.cache
+C:\Users\Tales\Desktop\DIO\PDV-Api\obj\Debug\net7.0\PDV-Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tales\Desktop\DIO\PDV-Api\obj\Debug\net7.0\PDV-Api.AssemblyInfoInputs.cache
+C:\Users\Tales\Desktop\DIO\PDV-Api\obj\Debug\net7.0\PDV-Api.AssemblyInfo.cs
+C:\Users\Tales\Desktop\DIO\PDV-Api\obj\Debug\net7.0\PDV-Api.csproj.CoreCompileInputs.cache
+C:\Users\Tales\Desktop\DIO\PDV-Api\obj\Debug\net7.0\PDV-Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tales\Desktop\DIO\PDV-Api\obj\Debug\net7.0\PDV-Api.MvcApplicationPartsAssemblyInfo.cache
